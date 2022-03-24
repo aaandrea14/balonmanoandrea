@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=3.3-7
+Type=Application
+Name=Siatic
+Comment=
+Exec=/usr/bin/siaticcontrol
+Icon=/usr/share/pixmaps/siatic.png
+Path=
+Terminal=false
+StartupNotify=false
+Name[es]=SIATIC_Control

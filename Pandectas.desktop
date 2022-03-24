@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.4-33
+Type=Application
+Name=Pandectas
+Comment=
+Exec=/usr/bin/pandectas
+Icon=/usr/share/pixmaps/pandectas.png
+Path=
+Terminal=false
+StartupNotify=false
